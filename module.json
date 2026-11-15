@@ -2,7 +2,7 @@
   "id": "release-demo-module",
   "title": "Release Demo Module",
   "description": "A tiny do-nothing module used to demonstrate the FoundryVTT release process, manually and with foundry-release-action.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
