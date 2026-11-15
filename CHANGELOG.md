@@ -2,6 +2,12 @@
 
 All notable changes to this module are listed here. This project follows [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.0.1] - 2026-11-15
+
+### Fixed
+
+- fixed typo in main.js
+
 ## [1.0.0] - 2026-11-15
 
 ### Added
