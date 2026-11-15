@@ -2,7 +2,7 @@
   "id": "release-demo-module",
   "title": "Release Demo Module",
   "description": "A tiny do-nothing module used to demonstrate the FoundryVTT release process, manually and with foundry-release-action.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -24,5 +24,5 @@
   ],
   "url": "https://github.com/thejoester/release-demo-module",
   "manifest": "https://github.com/thejoester/release-demo-module/releases/latest/download/module.json",
-  "download": "https://github.com/thejoester/release-demo-module/releases/download/v0.0.0/release-demo-module.zip"
+  "download": "https://github.com/thejoester/release-demo-module/releases/latest/download/release-demo-module.zip"
 }
